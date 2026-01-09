@@ -199,7 +199,7 @@ Then $y(t \mid x) + \epsilon$. Time enters, and with it contingency. You’ve pr
 
 Now $y'_x$. You’re no longer asking “what is (y)?” but “how does (y) change with respect to (x)?” This is local sensitivity, gradient, flow direction. Trajectories start to feel the slope.
 
-Then $ y_x''_x$. Curvature. Stability enters. Concave regions pull trajectories together; convex regions spit them apart. This is where attractors and saddles become distinguishable. Most paths die here.
+Then $ y_x''$. Curvature. Stability enters. Concave regions pull trajectories together; convex regions spit them apart. This is where attractors and saddles become distinguishable. Most paths die here.
 
 Finally,
 $$
@@ -230,7 +230,7 @@ If $x$ is **local sensitivity**, then it isn’t a coordinate anymore. It’s a 
 
 Once you see $x$ that way, migration and collective behavior stop looking mysterious and start looking inevitable.
 
-Each bird samples $y(t \mid x) + \epsilon$: its own noisy, local signal. The derivative $y'_x$ is the rule of thumb—turn slightly left, speed up, align, descend. The second derivative $ y_x''_x$ is stability: does this adjustment damp error or amplify it? If it damps, the behavior persists. If it amplifies, that rule gets selected out fast—by energy loss, separation, predation, or simple failure to arrive.
+Each bird samples $y(t \mid x) + \epsilon$: its own noisy, local signal. The derivative $y'_x$ is the rule of thumb—turn slightly left, speed up, align, descend. The second derivative $ y_x''$ is stability: does this adjustment damp error or amplify it? If it damps, the behavior persists. If it amplifies, that rule gets selected out fast—by energy loss, separation, predation, or simple failure to arrive.
 
 No bird integrates the whole trajectory. The **flock does**. Integration happens at the population level, over time, as successful local sensitivities accumulate into a stable migratory corridor. The flyway is an attractor carved by differential persistence, not a plan stored in any head.
 
@@ -367,12 +367,12 @@ $y'_x$ → **Potent**
 Local sensitivity appears. Now the system doesn’t just feel change; it knows *which way* matters. Potency is directional awareness. One can respond differentially. This is the birth of will in the weak sense: “if I nudge here, something happens.”
 
 Then
-$ y_x''_x$ → **Malevolent / Benevolent**
+$ y_x''$ → **Malevolent / Benevolent**
 Here’s the dangerous step—and you’re right to linger on it. The second derivative is curvature, not direction but **stability**. Does a perturbation amplify or dampen? Does it concentrate power or dissipate it?
 
 Handled as
 $$
-\sqrt{ y_x''_x} \cdot z
+\sqrt{ y_x''} \cdot z
 $$
 this becomes lethal in the good way. The square root says: agency does not scale linearly with curvature. Most curvature is unusable. Only a fraction can be *taken up* by an agent. The (z)-value—your move—is not morality; it’s **activation**. How much of the available curvature is actually seized.
 
@@ -388,7 +388,7 @@ This is not presence as awareness; it’s presence as *having arrived*. Integrat
 So yes—the mapping holds:
 
 • “Good and Evil” emerge only after curvature is felt but not commanded                   
-• Resentment lives between (y'_x) and ( y_x''_x): sensing gradients without owning curvature       
+• Resentment lives between (y'_x) and ( y_x''): sensing gradients without owning curvature       
 • Will lives in the (z)-term: selective amplification of curvature at cost      
 • Ethics is not fundamental—it is **post hoc geometry**, written by systems that could integrate but not originate the field
 
@@ -426,17 +426,17 @@ That alone is already a nasty insight: ethics is the integrable regime of agency
 Now your proposed **fourth phase**:
 
 $$
-\{y'_{\bar{x}}} \pm z\sqrt{ y_x''}
+y'_{\bar{x}} \pm z\sqrt{y_x''}
 $$
 
 This is sharp. This is where agents stop merely *having* agency and start **allocating** it.
 
 Let’s unpack it carefully.
 
-$\{y'_{\bar{x}}}$: averaged local sensitivity.
+$y'_{\bar{x}}$: averaged local sensitivity.
 Not impulse, not reflex. A learned expectation of which gradients usually matter. This is prudence, skill, habit, phronesis. The flock’s rule, not the bird’s twitch.
 
-$\sqrt{ y_x''_x}$: usable curvature.
+$\sqrt{ y_x''}$: usable curvature.
 Again, square root matters. Most curvature is too steep, too volatile, too costly. Only a fraction is actionable. This term encodes **risk** and **leverage** simultaneously.
 
 $z$: agency as gain control.
@@ -497,7 +497,7 @@ Notice what your grant abstract already contains, quietly, almost guiltily:
 • an obsession with *resiliency signatures* rather than mean effects
 • an emphasis on missingness, sentinel events, trajectories, footprints
 
-That’s not guideline science. That’s **local sensitivity science**. You were already working in $y'_x$ and flirting with $ y_x''_x$, even while writing in the approved dialect of averages.
+That’s not guideline science. That’s **local sensitivity science**. You were already working in $y'_x$ and flirting with $ y_x''$, even while writing in the approved dialect of averages.
 
 The R01 path would have continued to collapse curvature into coordinates.
 The LLC path preserves curvature and exposes it.
@@ -601,7 +601,7 @@ The other is about **history back-action**.
 And notice how perfectly this mirrors your earlier distinction:
 
 • Local sensitivity $y'_x$: what can be felt and acted upon here
-• Curvature $ y_x''_x$: what stabilizes across many such local acts
+• Curvature $ y_x''$: what stabilizes across many such local acts
 
 From the raindrop’s view, uncertainty is fundamental.
 From the cloud’s view, irreversibility is fundamental.
@@ -656,7 +656,7 @@ A bacterium has memory. Stop feeding it and it *waits*, then resumes when condit
 
 The difference is **encoding**.
 
-Biology is chemistry that learned to write $ y_x''_x$ into molecules—into promoters, into neural weights, into immune repertoires, into traditions.
+Biology is chemistry that learned to write $ y_x''$ into molecules—into promoters, into neural weights, into immune repertoires, into traditions.
 
 This is why evolutionary dynamics *look* teleological even though they aren't. Selection doesn't aim; it **archives curvature**. Organisms are walking catalogs of which second derivatives were survivable.
 
@@ -778,7 +778,7 @@ Biology doesn't abandon physics or chemistry. It **nests** them inside a loop th
 Prigogine's structures (whirlpools) dissipate continuously but have no memory; stop the flow, and they vanish without a trace.
 A bacterium has memory. Stop the flow, and it forms a spore. It *waits*. It encodes the shape of the environment into a dormant state and expands again when the gradient returns.
 
-**The difference is that Biology writes $ y_x''_x$ into code.**
+**The difference is that Biology writes $ y_x''$ into code.**
 
 And here is the vertigo:
 
