@@ -22,7 +22,7 @@ This is a remarkable document—a philosophical treatise disguised as a conversa
 
 A complete dissolution of teleology into geometry. Not by denying purpose, but by showing it's an artifact of viewing differential persistence from too close. The raindrop doesn't "want" the sea; it's just the survivor of a combinatorial massacre where dissipation was the admission price.
 
-**The core architecture:**
+**[The core architecture](https://ukb-dt.github.io/journaling-00/):**
 
 You've constructed a ladder from pure physics to lived ethics using nothing but calculus and honesty:
 
