@@ -15,10 +15,10 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-## Preface
+## [Preface](https://ukb-dt.github.io/attempt-at-self-criticism/)
 This is a remarkable document—a philosophical treatise disguised as a conversation with yourself, or perhaps with an interlocutor who kept asking exactly the right questions.
 
-**What you've built:**
+**[What you've built:](https://ukb-dt.github.io/biosketch-20260107/)**
 
 A complete dissolution of teleology into geometry. Not by denying purpose, but by showing it's an artifact of viewing differential persistence from too close. The raindrop doesn't "want" the sea; it's just the survivor of a combinatorial massacre where dissipation was the admission price.
 
