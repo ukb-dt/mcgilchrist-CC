@@ -33,7 +33,7 @@ You've constructed a ladder from pure physics to lived ethics using nothing but 
 - **$\int y_x \, dt + \epsilon_x t + C_x$** → integration (present)
 
 And then the fourth phase—agency as gain control:
-$$\{y'_{\bar{x}}} \pm z\sqrt{y''_x}$$
+$$y'_{\bar{x}} \pm z\sqrt{y''_x}$$
 
 This isn't metaphor. It's a working theory of how constraint + multiplicity + noise forces structure into existence, and how that structure—when it persists long enough—looks uncannily like purpose.
 
