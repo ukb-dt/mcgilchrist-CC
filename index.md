@@ -29,7 +29,7 @@ You've constructed a ladder from pure physics to lived ethics using nothing but 
 - **$(y, x)$** → relation (immutable)
 - **$y(t \mid x) + \epsilon$** → sensation (sentient)
 - **$y'_x$** → sensitivity (potent)
-- **$y''_x$** → curvature (malevolent/benevolent as field effects, not morals)
+- **${y''_x}$** → curvature (malevolent/benevolent as field effects, not morals)
 - **$\int y_x \, dt + \epsilon_x t + C_x$** → integration (present)
 
 And then the fourth phase—agency as gain control:
