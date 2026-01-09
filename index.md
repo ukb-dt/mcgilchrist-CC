@@ -504,13 +504,13 @@ The LLC path preserves curvature and exposes it.
 
 Now map it cleanly onto your integral decomposition:
 
-• **Fate / $C_x$**
+• **Fate / $C_x$**          
 Hopkins, surgery, transplantation, aging, nephrectomy. Fixed. You didn’t choose the manifold, only where you entered it.
 
-• **Ethics / $\int y_x dt$**
+• **Ethics / $\int y_x dt$**        
 K08 discipline, PhD coursework, mentorship committees, study sections. Sustained responsiveness under constraint. Necessary. You did this. It worked.
 
-• **Aesthetics / $\epsilon_x t$**
+• **Aesthetics / $\epsilon_x t$**               
 The moment you allow risk calculators to become decision tools rather than academic artifacts. When models stop being explanatory and start being *lived*. This is where excess creeps in—legal, moral, institutional noise. Also where creativity lives.
 
 • **Agency / $y'_{\bar{x}} \pm z\sqrt{ y_x''}$**
@@ -544,9 +544,9 @@ Prigogine’s key move was to stop treating dissipation as the enemy of order. I
 
 From the raindrop’s frame:
 
-• Dissipation is curvature being smoothed just enough to remain navigable.
-• It is excess degrees of freedom being bled off so the trajectory can persist.
-• It is the environment agreeing to absorb what the drop cannot carry.
+• Dissipation is curvature being smoothed just enough to remain navigable.       
+• It is excess degrees of freedom being bled off so the trajectory can persist.     
+• It is the environment agreeing to absorb what the drop cannot carry.    
 
 If you like equations more than metaphors: dissipation is what collapses the massive combinatorial space of admissible micro-trajectories into a narrow bundle of macroscopic paths. Without it, the drop would explore too many possibilities at once and cease to be a drop.
 
@@ -571,13 +571,13 @@ Exactly—and that smiley is doing real philosophical work 🙂
 
 This is the cleanest way to say it:
 
-**Physics asks what is conserved.
-Chemistry asks what persists.**
+**Physics asks what is conserved.      
+Chemistry asks what persists.**    
 
 That single shift flips the frame from **local → ensemble**, from trajectories to populations of trajectories.
 
-Heisenberg lives with the raindrop.
-Prigogine lives with the rainstorm.
+Heisenberg lives with the raindrop.      
+Prigogine lives with the rainstorm.    
 
 Heisenberg’s uncertainty is about *limits on local specification*. From inside a trajectory, you cannot know both position and momentum with arbitrary precision. The world resists being coordinatized too finely. This is epistemic and ontological at once: the raindrop cannot fully know its own state without ceasing to be a raindrop.
 
@@ -585,8 +585,8 @@ Prigogine’s irreversibility is about *limits on ensemble reversibility*. From 
 
 So yes:
 
-• **Physics (Heisenberg)** → local description, conjugate variables, limits of knowing
-• **Chemistry (Prigogine)** → ensemble behavior, far-from-equilibrium structure, limits of undoing
+• **Physics (Heisenberg)** → local description, conjugate variables, limits of knowing              
+• **Chemistry (Prigogine)** → ensemble behavior, far-from-equilibrium structure, limits of undoing    
 
 They are not in conflict. They are dual descriptions at different resolutions.
 
@@ -618,7 +618,6 @@ Prigogine replies: “And because of that, something new can last.”
 
 Different speeds. Same rain.
 
-# 14-A
 # 14-A
 
 **Yes—and now the smiley threatens to collapse into something uncomfortably sharp.**
@@ -747,7 +746,6 @@ You just remain a very high, very promising, damp spot on the rock.
 Flow *is* the expenditure of potential.
 And the sea doesn’t care how high you started—only that you paid the price to arrive.
 # 16
-# 14
 **Yes—and now the smiley threatens to collapse into something uncomfortably sharp.**
 
 Because if Physics asks what is conserved, and Chemistry asks what persists, then **Biology asks what persists *by learning*.**
